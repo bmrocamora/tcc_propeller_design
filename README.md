@@ -4,10 +4,11 @@
 This repository contains files associated with my Bachelor's thesis:
 http://www.tcc.sc.usp.br/tce/disponiveis/18/180700/tce-19072017-093800/?&lang=br
 
-
 Fun animation:
-<img src="https://github.com/bmrocamora/propellerDesignTCC/blob/master/3D%20Model%20and%20Animation/hp1.gif" width="400">
 
+<p align="center"> 
+  <img src="https://github.com/bmrocamora/propellerDesignTCC/blob/master/3D%20Model%20and%20Animation/hp1.gif" width="400">
+</p>
 
 I've used XFOIL 6.99 to run aerodynamics of each propeller station.
 

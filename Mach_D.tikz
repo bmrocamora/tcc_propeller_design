@@ -1,0 +1,51 @@
+% This file was created by matlab2tikz.
+%
+%The latest updates can be retrieved from
+%  http://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz-matlab2tikz
+%where you can also make suggestions and rate matlab2tikz.
+%
+\definecolor{mycolor1}{rgb}{0.00000,0.44700,0.74100}%
+%
+\begin{tikzpicture}
+
+\begin{axis}[%
+width=0.951\figurewidth,
+height=\figureheight,
+at={(0\figurewidth,0\figureheight)},
+scale only axis,
+xmin=1.5,
+xmax=2.5,
+xlabel={Diametro [m]},
+xmajorgrids,
+ymin=0.55,
+ymax=0.85,
+ylabel={Numero de Mach na ponta da pa},
+ymajorgrids,
+axis background/.style={fill=white}
+]
+\addplot [color=mycolor1,solid,forget plot]
+  table[row sep=crcr]{%
+1.5	0.56741088505624\\
+1.55	0.580018796955226\\
+1.6	0.59275864813948\\
+1.65	0.605622112252001\\
+1.7	0.618601477960311\\
+1.75	0.631689600992815\\
+1.8	0.644879859548984\\
+1.85	0.658166112985961\\
+1.9	0.671542663645321\\
+1.95	0.685004221658767\\
+2	0.698545872557048\\
+2.05	0.712163047499881\\
+2.1	0.725851495943779\\
+2.15	0.739607260568068\\
+2.2	0.753426654285509\\
+2.25	0.767306239172069\\
+2.3	0.781242807159585\\
+2.35	0.795233362344957\\
+2.4	0.809275104779592\\
+2.45	0.823365415612806\\
+2.5	0.837501843472688\\
+};
+\end{axis}
+\end{tikzpicture}%

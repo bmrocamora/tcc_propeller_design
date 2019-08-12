@@ -7,9 +7,9 @@ I've used XFOIL 6.99 to run aerodynamics of each propeller station.
 
 Some cool results on the propeller I've designed:
 
-![Planform](/Figures/Blade Design.png)
+![Planform](https://github.com/bmrocamora/propellerDesignTCC/blob/master/Figures/Blade%20Design.png)
 
-![Graphs](/Figures/Performance.png)
+![Graphs](https://github.com/bmrocamora/propellerDesignTCC/blob/master/Figures/Performance.png)
 
-![3D Model](/3D Model and Animation/hp1.gif)
+![3D Model](https://github.com/bmrocamora/propellerDesignTCC/blob/master/3D%20Model%20and%20Animation/hp1.gif)
 
